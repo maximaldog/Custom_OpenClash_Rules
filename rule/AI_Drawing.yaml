@@ -1,0 +1,7 @@
+# REPO: https://github.com/maximaldog/Custom_OpenClash_Rules
+# SOURCE: https://github.com/maximaldog/Custom_OpenClash_Rules/blob/main/rule/AI_Drawing.yaml
+# TOTAL: 2
+
+payload:
+  - '+.civitai.com'
+  - '+.civitai.red'
