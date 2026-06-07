@@ -21,12 +21,12 @@ IP-CIDR,198.41.200.0/24,no-resolve
 DST-PORT,7844
 
 # 用户自定义直连服务
-DOMAIN,kic-mclip.lgthinq.com
-DOMAIN,checkonline.home-assistant.io
+DOMAIN-SUFFIX,lgthinq.com
+DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,oraclecloud.com
-DOMAIN,easylist-downloads.adblockplus.org
-DOMAIN,config.immersivetranslate.com
-DOMAIN,my.1password.com
+DOMAIN-SUFFIX,adblockplus.org
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,1password.com
 
 # GitHub 反代 CDN
 DOMAIN-SUFFIX,gh-proxy.com
