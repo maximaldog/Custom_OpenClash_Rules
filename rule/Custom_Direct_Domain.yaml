@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/maximaldog/Custom_OpenClash_Rules
 # SOURCE: https://github.com/maximaldog/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 617
+# TOTAL: 623
 
 payload:
   - '*m-team*'
@@ -405,6 +405,7 @@ payload:
   - '+.openappfilter.com'
   - '+.openkylin.top'
   - '+.opentrust.net'
+  - '+.oraclecloud.com'
   - '+.osbdf.com'
   - '+.ottai.com'
   - '+.ottiptv.cc'
@@ -621,3 +622,8 @@ payload:
   - '+.zuobiao.press'
   - '+.zysou.com'
   - '+.zzz-log-upload-os.hoyoverse.com'
+  - 'checkonline.home-assistant.io'
+  - 'config.immersivetranslate.com'
+  - 'easylist-downloads.adblockplus.org'
+  - 'kic-mclip.lgthinq.com'
+  - 'my.1password.com'
