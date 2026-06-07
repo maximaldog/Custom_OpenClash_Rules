@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/maximaldog/Custom_OpenClash_Rules
 # SOURCE: https://github.com/maximaldog/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 624
+# TOTAL: 630
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,115cdn.de
   - DOMAIN-SUFFIX,17van.com
   - DOMAIN-SUFFIX,1996999.xyz
+  - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,204cloud.com
   - DOMAIN-SUFFIX,2mcnxs.cc
   - DOMAIN-SUFFIX,365ting.com
@@ -52,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,aaawz.cc
   - DOMAIN-SUFFIX,acepanel.net
   - DOMAIN-SUFFIX,acggit.com
+  - DOMAIN-SUFFIX,adblockplus.org
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,afeica.com
   - DOMAIN-SUFFIX,afuns.me
@@ -268,6 +270,7 @@ payload:
   - DOMAIN-SUFFIX,hiwms.com
   - DOMAIN-SUFFIX,hkchat.app
   - DOMAIN-SUFFIX,hnxzctec.com
+  - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,hongxingdl.com
   - DOMAIN-SUFFIX,hongxingdl.love
   - DOMAIN-SUFFIX,hsbc.com.hk
@@ -296,6 +299,7 @@ payload:
   - DOMAIN-SUFFIX,ijingyi.com
   - DOMAIN-SUFFIX,ilucky.net
   - DOMAIN-SUFFIX,imacos.top
+  - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,indeedpower.com
   - DOMAIN-SUFFIX,infini-fantasy.com
@@ -344,6 +348,7 @@ payload:
   - DOMAIN-SUFFIX,leelen.com
   - DOMAIN-SUFFIX,letaoedu.com
   - DOMAIN-SUFFIX,lg3000.top
+  - DOMAIN-SUFFIX,lgthinq.com
   - DOMAIN-SUFFIX,lightmake.site
   - DOMAIN-SUFFIX,linka2a.net
   - DOMAIN-SUFFIX,liunn.com
@@ -405,6 +410,7 @@ payload:
   - DOMAIN-SUFFIX,openappfilter.com
   - DOMAIN-SUFFIX,openkylin.top
   - DOMAIN-SUFFIX,opentrust.net
+  - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,osbdf.com
   - DOMAIN-SUFFIX,ottai.com
   - DOMAIN-SUFFIX,ottiptv.cc
